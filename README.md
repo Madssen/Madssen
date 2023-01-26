@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 | ⚡ Additional links: | Kaggle: https://www.kaggle.com/madssen/ <br/> My Stepik achievements / certificates: https://stepik.org/users/160578311 | 
 | ⚡ I’m currently working on: | Математика для анализа данных: https://practicum.yandex.ru/math-for-da-ds/| 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 

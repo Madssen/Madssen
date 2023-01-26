@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!---Пример кода-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+data+science+journey)](https://git.io/typing-svg)
 |   | | 
 | :-------------------- | :-------------------- |
 | ⚡ My Repositories: | [Yandex Projects](https://github.com/Madssen/Yandex_Practicum.git): Проекты, выполненные в процессе обучения в Яндекс.Практикуме по направлению Специалист Data Science <br/> Соревнования/хакатоны: Проекты, выполненные в рамках соревнований, преимущественно в рамках проекта Цифровой прорыв 2022 | 
@@ -21,5 +23,4 @@ Here are some ideas to get you started:
 | ⚡ I’m currently working on: | Математика для анализа данных: https://practicum.yandex.ru/math-for-da-ds/| 
 
 
-<!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+learner)](https://git.io/typing-svg)
+

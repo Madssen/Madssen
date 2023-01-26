@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
+| :-------------------- | :-------------------- |
 | ⚡ My Repositories: | [Yandex Projects](https://github.com/Madssen/Yandex_Practicum.git): Проекты, выполненные в процессе обучения в Яндекс.Практикуме по направлению Специалист Data Science <br/> Соревнования/хакатоны: Проекты, выполненные в рамках соревнований, преимущественно в рамках проекта Цифровой прорыв 2022 | 
 | ⚡ Additional links: | Kaggle: https://www.kaggle.com/madssen/ <br/> My Stepik achievements / certificates: https://stepik.org/users/160578311 | 
 | ⚡ I’m currently working on: | Математика для анализа данных: https://practicum.yandex.ru/math-for-da-ds/| 

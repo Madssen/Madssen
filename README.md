@@ -20,3 +20,6 @@ Here are some ideas to get you started:
 | ⚡ Additional links: | Kaggle: https://www.kaggle.com/madssen/ <br/> My Stepik achievements / certificates: https://stepik.org/users/160578311 | 
 | ⚡ I’m currently working on: | Математика для анализа данных: https://practicum.yandex.ru/math-for-da-ds/| 
 
+
+<!---Пример кода-->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Data+science+learner)](https://git.io/typing-svg)

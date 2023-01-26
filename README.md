@@ -25,3 +25,9 @@ Yandex Projects:
 
 Kaggle:
 https://www.kaggle.com/madssen/
+
+My Stepik achievements / certificates:
+https://stepik.org/users/160578311
+
+
+🔭 I’m currently working on Математика для анализа данных

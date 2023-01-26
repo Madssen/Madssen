@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!---Пример кода-->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+data+science+journey:)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+data+science+journey:)](https://git.io/typing-svg)-->
 |   | | 
 | :-------------------- | :-------------------- |
 | ⚡ My Repositories: | [Yandex Projects](https://github.com/Madssen/Yandex_Practicum.git): Проекты, выполненные в процессе обучения в Яндекс.Практикуме по направлению Специалист Data Science <br/> [Соревнования/хакатоны](https://github.com/Madssen/Competitions_and_hackathons.git): Проекты, выполненные в рамках соревнований, преимущественно в рамках проекта Цифровой прорыв 2022 | 
